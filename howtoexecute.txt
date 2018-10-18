@@ -1,0 +1,32 @@
+Essentials:
+	1. python 3.6
+	2. python packages
+		1) pandas
+		2) sklearn
+		3) tkinter
+		4) os
+		5) glob
+		6) pdfkit
+		7) matplotlib
+		8) pil
+	3. (not compulsory) IntelliJ IDEA
+
+How to execute:
+
+step1: go to PRAS folder
+step2: open cgui.py and run it
+step3: login into student, fill the form and submit it. click yes to predict.
+step4: login into placement cell, select graph type, select data on which analysis to be performed. 
+step5: login into company portal, register new company if required otherwise skip, perform placement process by selecting shortlisted student.
+
+
+user id and passwords:
+        for student:
+	user id: student 
+	password: stu
+        for company:
+	user id: company 
+	password: cmp
+        for placement cell:
+	user id: placementcell 
+	password: plc
